@@ -46,7 +46,7 @@ body {
     .services-container {
       display: flex;
       flex-flow: row wrap;
-      height: 250px;
+      
       justify-content: space-evenly;
     }
   
