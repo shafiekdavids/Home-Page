@@ -33,6 +33,7 @@
   
     /* nav bar text */
     .nav-link {
+    
       color: #f7f8f8;
       padding: 25px;
       text-decoration: none;
@@ -113,3 +114,10 @@
       padding: 25px;
       color: #f7f8f8;
     }
+
+.example {
+  height: 85px;
+  text-align: center;
+  background-color: #474554;
+  padding-top: 0.1px;
+} 
